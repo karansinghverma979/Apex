@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Platform-Windows%2011%20%7C%2024H2-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows 11" />
   <img src="https://img.shields.io/badge/Idle%20RAM-0%20MB-00E5FF?style=flat-square" alt="0 MB Idle RAM" />
   <img src="https://img.shields.io/badge/Idle%20CPU-0.0%25-00E676?style=flat-square" alt="0.0% CPU" />
-  <a href="https://github.com/karansinghverma979/Apex/releases/download/v2.0.0/Apex.exe"><img src="https://img.shields.io/badge/Download-Apex.exe%20(333%20KB)-orange?style=flat-square&logo=windows" alt="Download Binary" /></a>
+  <a href="https://github.com/karansinghverma979/Apex/releases/download/v3.0.0/Apex.exe"><img src="https://img.shields.io/badge/Download-Apex.exe%20(335%20KB)-orange?style=flat-square&logo=windows" alt="Download Binary" /></a>
   <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT License" />
 </p>
 

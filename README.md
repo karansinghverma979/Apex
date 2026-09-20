@@ -169,8 +169,8 @@ Apex records dimensions and coordinates on `SizeChanged`, `LocationChanged`, `De
 
 ## 🚀 Installation & Quickstart
 
-### 1. Automated Sakshi Module Deployment
-From PowerShell within the repository or module directory:
+### 1. Automated Deployment
+From PowerShell within the repository directory:
 ```powershell
 # Interactive deployment with immediate Explorer refresh
 .\Install-Apex.ps1
